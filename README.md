@@ -2,7 +2,8 @@
 
 This is app-ads for our iOS AppStore Apps.
 
-Please visit our*official website:* [https://sichuantuguantechnology.com](https://sichuantuguantechnology.com/)
+Please visit our*official website:
+* [https://sichuantuguantechnology.com](https://sichuantuguantechnology.com/)
 
 For any questions, please send us with emails.
 
