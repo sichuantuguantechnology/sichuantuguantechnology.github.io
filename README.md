@@ -6,6 +6,6 @@ Please visit our*official website:* [https://sichuantuguantechnology.com](https:
 
 For any questions, please send us with emails.
 
-Email(1):[yimengweima2020@yeah.net](yimengweima2020@yeah.net)
+Email(1):yimengweima2020@yeah.net
 
 Email(2):lovepuzzlegame@gmail.com
