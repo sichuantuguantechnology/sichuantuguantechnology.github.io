@@ -11,3 +11,5 @@ For any questions, please send us with emails.
 Email(1):yimengweima2020@yeah.net
 
 Email(2):lovepuzzlegame@gmail.com
+
+<adPlatform>1</adPlatform>
