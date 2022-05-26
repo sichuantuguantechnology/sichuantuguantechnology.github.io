@@ -1,5 +1,5 @@
 # SichuanTuguanTechnology
-
+<adPlatform>2</adPlatform>
 This is app-ads for our iOS AppStore Apps.
 
 Please visit our*official website:
@@ -11,5 +11,3 @@ For any questions, please send us with emails.
 Email(1):yimengweima2020@yeah.net
 
 Email(2):lovepuzzlegame@gmail.com
-
-<adPlatform>1</adPlatform>
