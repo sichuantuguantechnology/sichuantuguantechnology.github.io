@@ -1,5 +1,5 @@
 # SichuanTuguanTechnology
-<adPlatform>1</adPlatform>
+<adPlatform>2</adPlatform>
 This is app-ads for our iOS AppStore Apps.
 
 Please visit our*official website:
