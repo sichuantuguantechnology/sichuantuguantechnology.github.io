@@ -39,9 +39,6 @@ video.unrulymedia.com, 3630748062, RESELLER, a670c89d4a324e47
 google.com, pub-9663527800316698, RESELLER
 telaria.com, rwd19-2122999, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-2122999, RESELLER, 1a4e959a1b50034a
-
-
-
 mintegral.com, 36843, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
 appads.in, 107139, RESELLER
@@ -427,5 +424,4 @@ admixer.net, f6790c61-b9ce-49b0-b809-059710d60dfd, RESELLER
 imds.tv, 82578, RESELLER, ae6c32151e71f19d
 pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
 inmobi.com, 625b6b37c3a340938a8ff02bc83b5a04, RESELLER, 83e75a7ae333ca9d
-
 sharethrough.com, 3blZyYks, RESELLER, d53b998a7bd4ecd2
