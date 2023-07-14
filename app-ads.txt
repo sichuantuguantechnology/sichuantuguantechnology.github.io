@@ -374,9 +374,7 @@ ssp.e-volution.ai, AJxF6R118a9M6CaTvK, RESELLER
 loopme.com, 11367, RESELLER, 6c8d5f95897a5a3b
 inmobi.com, 30f3830cfef249a3ad46ee1a0bba7af3, RESELLER, 83e75a7ae333ca9d
 myfeature.tv, UvnXhUMZHRvKfRk52QZy, RESELLER
-video.unrulymedia.com, 1876793108340587286, RESELLER
 inmobi.com, cac51fe616224c3c8f858f34b3267dd7, RESELLER, 83e75a7ae333ca9d
-omnifytv.com, 05096ffe925c11eda1eb0242ac120002, RESELLER
 inmobi.com, 662fb54f5d15471a80b4ddaa467e84b0, RESELLER, 83e75a7ae333ca9d
 bematterfull.com, 562499, RESELLER
 triplelift.com, 13423, RESELLER, 6c33edb13117fd86
@@ -425,3 +423,33 @@ imds.tv, 82578, RESELLER, ae6c32151e71f19d
 pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
 inmobi.com, 625b6b37c3a340938a8ff02bc83b5a04, RESELLER, 83e75a7ae333ca9d
 sharethrough.com, 3blZyYks, RESELLER, d53b998a7bd4ecd2
+
+video.unrulymedia.com, 1876793108340587286, RESELLER
+omnifytv.com, 05096ffe925c11eda1eb0242ac120002, RESELLER
+themediagrid.com, R28I9J, DIRECT, 35d5010d7789b49d
+pubmatic.com, 160492, RESELLER, 5d62403b186f2ace
+freewheel.tv, 1585279, RESELLER
+videoheroes.tv, 212581, RESELLER, 064bc410192443d8
+rubiconproject.com, 25060, RESELLER, 0bfd66d529a55807
+sharethrough.com, K5WDGAsP, RESELLER, d53b998a7bd4ecd2
+sonobi.com, c58cf86903, RESELLER, d1a215d9eb5aee9e
+improvedigital.com, 1805, RESELLER
+Contextweb.com, 562794, RESELLER, 89ff185a4c4e857c
+criteo.com, B-064322, RESELLER, 9fac4a4a87c2a44f
+video.unrulymedia.com, 170071695, RESELLER
+conversantmedia.com, 100358, RESELLER, 03113cd04947736d
+startapp.com, wbe, RESELLER
+start.io, wbe, RESELLER
+admixer.net, 70590d13-5632-41d5-8a78-76bc239c528c, RESELLER
+bidence.com, 4a87393d59a18d4bbfb5326c5d98051a, RESELLER
+pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4140, RESELLER
+triplelift.com, 11656, RESELLER, 6c33edb13117fd86
+vidoomy.com, 4930225, RESELLER
+smartadserver.com, 4457, RESELLER, 060d053dcf45cbf3
+loopme.com, 11605, RESELLER, 6c8d5f95897a5a3b
+Xapads.com, 155860, RESELLER
+betweendigital.com, 45117, RESELLER
+pubmatic.com, 162968, RESELLER, 5d62403b186f2ace
+brightcom.com, 29559, RESELLER
+pubnative.net, 1008379, RESELLER, d641df8625486a7b
