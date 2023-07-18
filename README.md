@@ -12,5 +12,5 @@ Email(1):yimengweima2020@yeah.net
 
 Email(2):lovepuzzlegame@gmail.com
 
-<version>23.0713.08</version>
-<zumaV>23.0712.01</zumaV>
+<version>23.0717.02</version>
+<zumaV>23.0717.06</zumaV>
